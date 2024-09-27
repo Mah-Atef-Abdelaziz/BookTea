@@ -1,6 +1,5 @@
 # BookTea
-BookTea - Using Microsoft ASP.NET Core
-**BookTea Review - Building a Book Review Web App with Microsoft ASP.NET Core**
+**BookTea - Building a Book Review Web App with Microsoft ASP.NET Core**
 
 In this video, I walk you through building a simple web application called "BookTea" using Microsoft ASP.NET Core! Whether you're new to ASP.NET or looking to enhance your skills, this tutorial is perfect for you. We'll dive into creating a robust book review platform where users can share their thoughts, rate books, and discover new reads.
 
