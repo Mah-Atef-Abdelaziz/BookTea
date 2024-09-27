@@ -9,4 +9,4 @@
 - Best practices for designing scalable web applications with ASP.NET Core
 
 ### Team Members:
-- Mahmoud Atef, Belal Yasser, Rawan Hassan, Roaa Bassam, Mennatullah Esam
+- Mahmoud Atef, Belal Yasser, Rawan Hassan, Roaa Bassam, Mennatullah Essam
