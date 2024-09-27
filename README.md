@@ -14,6 +14,8 @@ __________________
 ### Resources:
 - Source Code: [https://github.com/Mah-Atef-Abdelaziz/BookTea]
 
+- YouTube: https://www.youtube.com/watch?v=xNJZQtBEUzQ
+
 - Get started with ASP.NET Core MVC: [https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio]
 
 -Tutorial: Get started with EF Core in an ASP.NET MVC web app[https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-6.0]
